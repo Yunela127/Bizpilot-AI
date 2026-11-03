@@ -51,7 +51,7 @@ Hackathon: AWS Student Builder Group – GenAI Sprint 1.0
 Track: Track 1 – Amazon PartyRock
 
 Project Link
+[Open BizPilot AI on Amazon PartyRock]
 
-<!-- Add your public PartyRock Flow link here -->Disclaimer
-
+https://partyrock.aws/u/Priyankaghosh/rwOzgBBXF/BizPilot-AI%253A-Smart-Shop-Assistant
 BizPilot AI is a prototype. Its AI-generated suggestions should be checked by the shop owner before use. It does not guarantee business growth or profits.
